@@ -22,3 +22,6 @@ access in project 6 also can access in the final project. I didn’t add any key
 6. The texture of the walls and floor are snow and marble. I tried to find the same texture as
 in the original map, but I failed. Although I didn’t implement any animation, I think that is the
 map I made. I am still proud of it.
+
+![image](https://user-images.githubusercontent.com/87624521/207425809-5a463524-1ae2-436e-b9d6-d9090e5a86c9.png)
+
