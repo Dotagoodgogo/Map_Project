@@ -16,7 +16,7 @@ childhood.
 ## Some features
 The majority of the project is made by triangle strips and triangle-fan. The procedure seems
 pretty easy, but I need to set a bunch of parameters such as vertices, normal, and texture
-mapping, which are really time-consuming; meanwhile, the project is based on project 6. I
+mapping, which are really time-consuming; meanwhile, the project is based on project phong lighting, object movement, and texture mapping. I
 keep the lights but make them a little bit blue which represents my childhood has gone and
 have grown up. Furthermore, since the project is based on project 6. All keys which can
 access in project 6 also can access in the final project. I didn’t add any keys beyond project
