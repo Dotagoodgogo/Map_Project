@@ -18,11 +18,26 @@ The majority of the project is made by triangle strips and triangle-fan. The pro
 pretty easy, but I need to set a bunch of parameters such as vertices, normal, and texture
 mapping, which are really time-consuming; meanwhile, the project is based on project phong lighting, object movement, and texture mapping. I
 keep the lights but make them a little bit blue which represents my childhood has gone and
-have grown up. Furthermore, since the project is based on project 6. All keys which can
-access in project 6 also can access in the final project. I didn’t add any keys beyond project
-6. The texture of the walls and floor are snow and marble. I tried to find the same texture as
+have grown up. The texture of the walls and floor are snow and marble. I tried to find the same texture as
 in the original map, but I failed. Although I didn’t implement any animation, I think that is the
 map I made. I am still proud of it.
+
+Some Animation instructions:
+Press 'r' or 'R' (Run) to toggle(off and on) running the animation.
+Press arrow keys to adjust the view direction.
+Press HOME or END to closer to and farther away from the scene.
+Press 'w' or 'W' (wireframe) to toggle whether wireframe or fill mode.
+Press 'M' (mesh) to increase the mesh resolution.
+Press 'm' (mesh) to decrease the mesh resolution.
+Press 'E' key (Emissive) to toggle rendering Emissive light.
+Press 'A' key (Ambient) to toggle rendering Ambient light.
+Press 'D' key (Diffuse) to toggle rendering Diffuse light.
+Press 'S' key (Specular) to toggle rendering Specular light.
+Press 'V' key (Viewer) to toggle using a local viewer.
+Press 'Q' key to toggle viewing all the objects besides the floor.
+Press ESCAPE to exit.Some animation instructions：
+
+
 
 
 
