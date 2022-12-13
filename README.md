@@ -1,5 +1,6 @@
 # Map_Project
-![image](https://user-images.githubusercontent.com/87624521/207425672-24e6c1ab-caea-41e0-a5d0-b8279d57fc69.png)![image](https://user-images.githubusercontent.com/87624521/207425809-5a463524-1ae2-436e-b9d6-d9090e5a86c9.png)
+![image](https://user-images.githubusercontent.com/87624521/207425672-24e6c1ab-caea-41e0-a5d0-b8279d57fc69.png)<--My project
+![image](https://user-images.githubusercontent.com/87624521/207425809-5a463524-1ae2-436e-b9d6-d9090e5a86c9.png)<-- original map
 
 ## Description
 This project is called “Ice world.” Maybe you don’t know what that is, but if you are a
