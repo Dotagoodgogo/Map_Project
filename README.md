@@ -1,5 +1,5 @@
 # Map_Project
-
+## Description
 This project is called “Ice world.” Maybe you don’t know what that is, but if you are a
 professional player. I believe you may see it somewhere. My final project is a map, and my
 thought is coming from a game which is called counter-strike(CS). I believe it has been a
@@ -9,6 +9,8 @@ the whole game and internet world. Time goes fast. I still remember that I kept 
 on this map and finally reached 100 kills when I was in elementary school. It is the memory
 of our generation. Therefore, I pick this map as my project as my best memory of my
 childhood.
+
+## Some features
 The majority of the project is made by triangle strips and triangle-fan. The procedure seems
 pretty easy, but I need to set a bunch of parameters such as vertices, normal, and texture
 mapping, which are really time-consuming; meanwhile, the project is based on project 6. I
