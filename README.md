@@ -23,8 +23,8 @@ in the original map, but I failed. Although I didn’t implement any animation, 
 map I made. I am still proud of it.
 
 Some Animation instructions:
-Press 'r' or 'R' (Run) to toggle(off and on) running the animation.
-Press arrow keys to adjust the view direction.
+1.Press 'r' or 'R' (Run) to toggle(off and on) running the animation.
+2.Press arrow keys to adjust the view direction.
 Press HOME or END to closer to and farther away from the scene.
 Press 'w' or 'W' (wireframe) to toggle whether wireframe or fill mode.
 Press 'M' (mesh) to increase the mesh resolution.
