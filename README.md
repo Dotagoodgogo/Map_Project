@@ -1,5 +1,5 @@
 # Map_Project
-![image](https://user-images.githubusercontent.com/87624521/207425672-24e6c1ab-caea-41e0-a5d0-b8279d57fc69.png)
+![image](https://user-images.githubusercontent.com/87624521/207425672-24e6c1ab-caea-41e0-a5d0-b8279d57fc69.png)![image](https://user-images.githubusercontent.com/87624521/207425809-5a463524-1ae2-436e-b9d6-d9090e5a86c9.png)
 
 ## Description
 This project is called “Ice world.” Maybe you don’t know what that is, but if you are a
@@ -23,6 +23,5 @@ access in project 6 also can access in the final project. I didn’t add any key
 in the original map, but I failed. Although I didn’t implement any animation, I think that is the
 map I made. I am still proud of it.
 
-CS original map--->Ice World
-![image](https://user-images.githubusercontent.com/87624521/207425809-5a463524-1ae2-436e-b9d6-d9090e5a86c9.png)
+
 
