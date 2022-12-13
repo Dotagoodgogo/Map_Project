@@ -25,17 +25,17 @@ map I made. I am still proud of it.
 Some Animation instructions:
 1. Press 'r' or 'R' (Run) to toggle(off and on) running the animation.
 2. Press arrow keys to adjust the view direction.
-Press HOME or END to closer to and farther away from the scene.
-Press 'w' or 'W' (wireframe) to toggle whether wireframe or fill mode.
-Press 'M' (mesh) to increase the mesh resolution.
-Press 'm' (mesh) to decrease the mesh resolution.
-Press 'E' key (Emissive) to toggle rendering Emissive light.
-Press 'A' key (Ambient) to toggle rendering Ambient light.
-Press 'D' key (Diffuse) to toggle rendering Diffuse light.
-Press 'S' key (Specular) to toggle rendering Specular light.
-Press 'V' key (Viewer) to toggle using a local viewer.
-Press 'Q' key to toggle viewing all the objects besides the floor.
-Press ESCAPE to exit.Some animation instructions：
+3. Press HOME or END to closer to and farther away from the scene.
+4. Press 'w' or 'W' (wireframe) to toggle whether wireframe or fill mode.
+5. Press 'M' (mesh) to increase the mesh resolution.
+6. Press 'm' (mesh) to decrease the mesh resolution.
+7. Press 'E' key (Emissive) to toggle rendering Emissive light.
+8. Press 'A' key (Ambient) to toggle rendering Ambient light.
+9. Press 'D' key (Diffuse) to toggle rendering Diffuse light.
+10. Press 'S' key (Specular) to toggle rendering Specular light.
+11. Press 'V' key (Viewer) to toggle using a local viewer.
+12. Press 'Q' key to toggle viewing all the objects besides the floor.
+13. Press ESCAPE to exit.Some animation instructions：
 
 
 
