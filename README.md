@@ -1,11 +1,13 @@
 # Map_Project
+# 3D Reconstruction of the "iceworld" Map from Counter-Strike
+
 My project
 
 ![image](https://user-images.githubusercontent.com/87624521/207425672-24e6c1ab-caea-41e0-a5d0-b8279d57fc69.png)
+
 Original map
 
 ![image](https://user-images.githubusercontent.com/87624521/207425809-5a463524-1ae2-436e-b9d6-d9090e5a86c9.png)
-# 3D Reconstruction of the "iceworld" Map from Counter-Strike
 
 ## Overview
 
