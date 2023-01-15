@@ -11,7 +11,7 @@ Original map
 
 ## Overview
 
-This project is a 3D reconstruction of the "iceworld" map from the popular first-person shooter game Counter-Strike. Using 3D modeling software, I created a 3D model of the map that accurately represents the original map in terms of layout, structure, and gameplay.
+This project is a 3D reconstruction of the "iceworld" map from the popular first-person shooter game Counter-Strike. Using C++ Opengl, I created a 3D model of the map that accurately represents the original map in terms of layout, structure, and gameplay.
 
 Some Animation instructions:
 1. Press 'r' or 'R' (Run) to toggle(off and on) running the animation.
