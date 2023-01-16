@@ -26,14 +26,14 @@ Some Animation instructions:
 10. Press 'S' key (Specular) to toggle rendering Specular light.
 11. Press 'V' key (Viewer) to toggle using a local viewer.
 12. Press 'Q' key to toggle viewing all the objects besides the floor.
-13. Press ESCAPE to exit.Some animation instructions：
+13. Press ESCAPE to exit.
 
 ## Skills Demonstrated
 
 - Points, lines, and polygons   
 - Rotaion and translation 
-- Shadows. Surfaces and normal vectors.
-- Phong lighting.
+- Shadows. Surfaces and normal vectors
+- Phong lighting
 - 3D rendering and shading techniques
 - 3D texturing 
 - Experience with 3D modeling software
